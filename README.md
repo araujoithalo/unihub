@@ -14,6 +14,7 @@ Oferecer um ambiente colaborativo onde estudantes possam compartilhar, consultar
 - Interface intuitiva
 - Monetização via anúncios
 
+A documentação completa com o detalhamento de requisitos (funcionais e não-funcionais), histórias de usuário e outros elementos pode ser acessada através do arquivo [requisitos.md](docs/requisitos.md).
 ## Como contribuir
 
 Veja o arquivo [CONTRIBUTING.md](docs/CONTRIBUTING.md) para instruções.
