@@ -23,6 +23,6 @@ Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para instruções.
 Veja o arquivo [BUILD.md](BUILD.md) para instruções de build e execução.
 
 ## Equipe:
-Breno Ramos | Desenvolvedor |
+Breno Ramos | Desenvolvedor | brsg@cin.ufpe.br
 
 Ithalo Araujo | Gerente de Produto e Desenvolvedor | iras@cin.ufpe.br
