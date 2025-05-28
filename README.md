@@ -16,7 +16,7 @@ Oferecer um ambiente colaborativo onde estudantes possam compartilhar, consultar
 
 ## Como contribuir
 
-Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para instruções.
+Veja o arquivo [docs/CONTRIBUTING.md](CONTRIBUTING.md) para instruções.
 
 ## Como rodar
 
