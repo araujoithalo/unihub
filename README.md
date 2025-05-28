@@ -16,11 +16,11 @@ Oferecer um ambiente colaborativo onde estudantes possam compartilhar, consultar
 
 ## Como contribuir
 
-Veja o arquivo [docs/CONTRIBUTING.md](CONTRIBUTING.md) para instruções.
+Veja o arquivo [CONTRIBUTING.md](docs/CONTRIBUTING.md) para instruções.
 
 ## Como rodar
 
-Veja o arquivo [BUILD.md](BUILD.md) para instruções de build e execução.
+Veja o arquivo [BUILD.md](docs/BUILD.md) para instruções de build e execução.
 
 ## Equipe:
 Breno Ramos | Desenvolvedor | brsg@cin.ufpe.br
