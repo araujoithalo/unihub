@@ -1,4 +1,4 @@
-# Requisitos Iniciais - Projeto UniHub
+# Requisitos Iniciais - UniHub
 
 ## Visão Geral
 
