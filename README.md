@@ -19,6 +19,8 @@ A documentação completa com o detalhamento de requisitos (funcionais e não-fu
 ## Stack e ferramentas
 - Front-end: Angular;
 - Back-end: Java;
+- Metodologia de desenvolvimento: "Cascágil" (híbrida)
+- Acompanhamento de fluxos de atividades através do Kanban implementado no Trello do time
 
 ## Como contribuir
 
