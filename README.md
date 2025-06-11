@@ -15,6 +15,11 @@ Oferecer um ambiente colaborativo onde estudantes possam compartilhar, consultar
 - Monetização via anúncios
 
 A documentação completa com o detalhamento de requisitos (funcionais e não-funcionais), histórias de usuário e outros elementos pode ser acessada através do arquivo [requisitos.md](docs/requisitos.md).
+
+## Stack e ferramentas
+- Front-end: Angular;
+- Back-end: Java;
+
 ## Como contribuir
 
 Veja o arquivo [CONTRIBUTING.md](docs/CONTRIBUTING.md) para instruções.
@@ -26,4 +31,4 @@ Veja o arquivo [BUILD.md](docs/BUILD.md) para instruções de build e execução
 ## Equipe:
 Breno Ramos | Desenvolvedor | brsg@cin.ufpe.br
 
-Ithalo Araujo | Gerente de Produto e Desenvolvedor | iras@cin.ufpe.br
+Ithalo Araujo | Gerente de Projetos e Desenvolvedor | iras@cin.ufpe.br
